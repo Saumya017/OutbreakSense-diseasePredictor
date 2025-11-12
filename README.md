@@ -3,7 +3,7 @@
 A comprehensive web application that combines disease prediction and outbreak risk assessment using machine learning models.
 
 ## 🌐 Live Demo
-Visit the deployed application: [OutbreakSense](https://outbreaksense-diseasepredictor.streamlit.app/)
+Visit the deployed application: [OutbreakSense](https://outbreaksensediseasepredictor.streamlit.app/)
 
 ## 🚀 Features
 
@@ -31,7 +31,7 @@ Visit the deployed application: [OutbreakSense](https://outbreaksense-diseasepre
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/29Krishna/OutbreakSense-diseasePredictor
+git clone https://github.com/saumya017/OutbreakSense-diseasePredictor
 cd OutbreakSense-diseasePredictor
 ```
 
@@ -58,8 +58,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👤 Contact
-- **Name**: Krishna
-- **Email**: krishnagupta2380@gmail.com
+- **Name**: Saumya
+- **Email**: Saumyajha017@gmail.com
 
 ## 🙏 Acknowledgments
 - Thanks to all contributors who have helped shape this project
